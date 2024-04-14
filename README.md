@@ -7,4 +7,3 @@ Introducing Cultural Canvas – a platform dedicated to promoting the local arti
 
 # How to use?
 You can access the website at https://culturalcanvas.dev/
-Chatbot - https://bot.culturalcanvas.dev/
